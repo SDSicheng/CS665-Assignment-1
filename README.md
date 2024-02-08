@@ -12,7 +12,7 @@ and tea my idea is tea and coffee are both beverages have common properties. So 
 Then wrap the method into the BeverageVendingMachine class method to simulate how a real one should work.
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+https://github.com/SDSicheng/CS665-Assignment-1
 
 # Implementation Description
 
